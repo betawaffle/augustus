@@ -4,3 +4,5 @@ version = "0.0.1"
 authors = ["Andrew Hodges <betawaffle@gmail.com>", "Nathan LaFreniere <quitlahok@gmail.com>"]
 
 [dependencies]
+log = "0.3.6"
+env_logger = "0.3.5"
